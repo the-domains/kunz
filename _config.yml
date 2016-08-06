@@ -1,4 +1,3 @@
-layout_spectrum: 0.25906951050274074
 typography_spectrum: 0.14767027902416885
 color:
   brandStrength: 0.3684988277964294
@@ -11,5 +10,7 @@ color:
     - '#BEDB39'
     - '#FFE11A'
     - '#FD7400'
+layout_spectrum: 0.25906951050274074
 name: Kunz
 title: Kunz Family
+description: Loving Life!
