@@ -15,5 +15,9 @@ author:
   name: Tom Kunz
   email: tlkunz@gmail.com
 name: Kunz
+navigation:
+  - name: Tom's Pics
+    id: 23a1cec6-8a92-43b1-a998-8c57c0e3922d
+    type: content
 title: Kunz Family
 description: Loving Life!
