@@ -11,6 +11,9 @@ color:
     - '#FFE11A'
     - '#FD7400'
 layout_spectrum: 0.25906951050274074
+author:
+  name: Tom Kunz
+  email: tlkunz@gmail.com
 name: Kunz
 title: Kunz Family
 description: Loving Life!
